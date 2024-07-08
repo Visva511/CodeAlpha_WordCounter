@@ -14,4 +14,12 @@ Features:
     
     Fast and secure
 
-Language Used: Java
+Language Used: 
+    
+    Java
+
+How to use:
+
+  Download the file
+  Save the file as it is .java
+  And then run using java compiler / Visual Studio Code.
